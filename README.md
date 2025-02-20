@@ -5,9 +5,7 @@ I know you needed this—though it may seem random, it surely has its use! I hop
 
 ---
 
-## 🚀 **How to Set Up**
-
-### 1. **Install Requirements**
+### 🚀 **How to Set Up**
 
 In the project directory, run the following command to install all required dependencies:
 
