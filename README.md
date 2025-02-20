@@ -1,9 +1,28 @@
 # Dscraper-awz14
-Wassup, I know you needed this although very random it surely has it's use?? Hope it worked well for you and this better not get patched. Any questions add my discord 'awz14'.
+Discord Server Scraper
+Wassup!
+I know you needed this—though it may seem random, it surely has its use! I hope it works well for you, and let's hope it doesn't get patched! If you have any questions, feel free to add me on Discord: awz14.
 
-How to set up:
-1. Just install requirements using: pip install -r requirements.txt
-  [In the directory CMD]
-2. Run find.py and wait until it scrapes all your discord servers.
-   [In invites.txt discord servers will also be saved there and the script will make sure duplicates are not printed and only servers with 10k members are included]
+🚀 How to Set Up
+Install Requirements
+In the project directory, run the following command to install all required dependencies:
 
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Run the Script
+Execute find.py to start scraping the Discord servers. The script will save the server invites in invites.txt, and it will ensure:
+
+No duplicates are included.
+Only servers with 10k+ members are saved.
+The process will automatically stop when 100 unique servers are found.
+
+⚙️ Requirements
+requests: For handling HTTP requests.
+beautifulsoup4: For parsing and scraping HTML content.
+Install them using the command above.
+
+💬 Questions?
+If you have any questions, or if anything isn't working, feel free to reach out to me on Discord:
+awz14
